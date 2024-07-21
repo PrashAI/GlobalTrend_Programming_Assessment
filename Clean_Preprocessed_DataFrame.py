@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 19 12:14:46 2024
-
-@author: prasa
-"""
 
 import pandas as pd
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
