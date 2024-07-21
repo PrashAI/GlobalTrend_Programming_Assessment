@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 19 12:37:00 2024
-
-@author: prasa
-"""
 
 def arithmetic_operation(num1, num2, operator):
     """
