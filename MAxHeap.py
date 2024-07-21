@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 19 11:42:06 2024
-
-@author: prasa
-"""
 
 class MaxHeap:
     def __init__(self):
